@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<!-- @format -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# crypto_metrics
+
+## Description
+
+In this task, Crypto-Metrics: This is a mobile web application used to check a list of crypto-currency metrics. It is created using the coinstats API, which retrives data such as, names of cryptos, logos, current amount and as well as related website url. The webapp have several pages which includes the "Home page" with a list of items that could be filtered by some parameters; in the project, it's a list of metrics that can be filtered by the coin name and a "Details page" with more information about a selected coin.
+
+# Built with
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>React</li>
+<li>Redux</li>
+<li>Webpack</li>
+<li>Jest</li>
+</ul>
+
+# Prerequisites
+
+<ul>
+<li>VSCode</li>
+<li>Git</li>
+<li>Browser With Developer Tools</li>
+</ul>
+
+## Interested in viewing the webpage:
+
+[Live Demo](https://rocket-mission-bookings.netlify.app/)
+
+# Presentation Recording
+
+[View](paste link here)
+
+# Home Page
+
+The Rockets section displays a list of all available SpaceX rockets.
+
+![localhost 3000-SpaceTravelers'Hub](https://user-images.githubusercontent.com/83514256/193158547-3849a8f8-4832-4184-9a14-5aea419f54eb.png)
+
+# Crypto Page
+
+The Missions section displays a list of current missions along with their brief description and participation status.
+
+![localhost 3000-SpaceTravelers'Hub(1)](https://user-images.githubusercontent.com/83514256/193158587-479909a4-2402-4aeb-9c57-ebe3acd61f13.png)
+
+# Mobile view for home Page
+
+![localhost 3000-SpaceTravelers'Hub(2)](https://user-images.githubusercontent.com/83514256/193317548-f5efb2cd-2497-4e2d-b298-59a02d5c9ab9.png)
 
 ## Available Scripts
 
-In the project directory, you can run:
+After cloning `git clone https://github.com/techEmprez/crypto_metrics.git` this directory from Github;
+You can run:
 
-### `npm start`
+### `npm install` to install project dependencies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `npm start` to open the development server.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Project Setup
 
-### `npm test`
+1. Setup the project by creating a new directory.
+2. Set up the repository on GitHub and use Gitflow.
+3. Set up React using ### `npx create-react-app .`
+4. Install [React Redux](https://react-redux.js.org/), [Redux Logger](https://www.npmjs.com/package/redux-logger) and [React Router](https://reactrouter.com /web/guides/quick-start).
+5. Create routes and view components.
+6. Fetch data and update Redux store.
+7. Render fetch data for the first time only.
+8. Write actions and reducers for canceling rockets and leaving missions
+9. Render UI: My Profile section
+10. Implemented jest test to the project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Run Tests
 
-### `npm run build`
+Use `npm test a` to run all the Jest test.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+//To return to the top page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Authors :bookmark_tabs:
 
-### `npm run eject`
+👤 **Choice Osobor**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- GitHub: [@githubhandle](https://github.com/techEmprez)
+- Twitter: [@twitterhandle](https://twitter.com/Suigeneriz_)
+- LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is <a href="https://github.com/techEmprez/crypto_metrics/MIT.md">MIT</a></li> licensed.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Contributing :handshake:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions, issues, and feature request are welcome anytime.
