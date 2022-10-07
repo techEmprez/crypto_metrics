@@ -2,7 +2,7 @@ import React from 'react';
 import HomeList from './HomeList';
 
 const HomeContainer = () => (
-  <div className="Home">
+  <div className="home">
     <HomeList />
   </div>
 );
