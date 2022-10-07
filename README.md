@@ -96,6 +96,10 @@ Use `npm test a` to run all the Jest test.
 
 This project is <a href="https://github.com/techEmprez/crypto_metrics/MIT.md">MIT</a></li> licensed.
 
+## Acknowledgement
+
+This project gives appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+
 # Contributing :handshake:
 
 Contributions, issues, and feature request are welcome anytime.
