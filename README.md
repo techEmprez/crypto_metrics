@@ -72,8 +72,6 @@ You can run:
 
 Use `npm test a` to run all the Jest test.
 
-//To return to the top page
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Authors :bookmark_tabs:
@@ -90,7 +88,7 @@ This project is <a href="https://github.com/techEmprez/crypto_metrics/MIT.md">MI
 
 ## Acknowledgement
 
-This project gives appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+This project gives appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 # Contributing :handshake:
 
