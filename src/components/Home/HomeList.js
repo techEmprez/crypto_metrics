@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const HomeList = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+const HomeList = () => (
+  <div />
+);
 
 export default HomeList;

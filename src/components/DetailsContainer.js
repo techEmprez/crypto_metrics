@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const DetailsContainer = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+const DetailsContainer = () => (
+  <div />
+);
 
-export default DetailsContainer
+export default DetailsContainer;

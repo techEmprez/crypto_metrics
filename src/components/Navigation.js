@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const Navigation = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+const Navigation = () => (
+  <div />
+);
 
 export default Navigation;
