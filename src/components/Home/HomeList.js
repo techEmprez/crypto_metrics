@@ -21,7 +21,7 @@ const HomeList = () => {
 
   useEffect(() => {
     dispatch(fetchCoins());
-  }, [dispatch, fetchCoins]);
+  }, [dispatch]);
 
   return (
     <>
