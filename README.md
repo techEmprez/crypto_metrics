@@ -34,17 +34,25 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 [View](paste link here)
 
+---
+
 # Home Page
 
-![home](<img width="957" alt="image" src="https://user-images.githubusercontent.com/43815180/194650188-06774db8-3882-4578-8906-7c1afc535eb7.png">)
+- <img width="960" alt="image" src="https://user-images.githubusercontent.com/43815180/194651996-22cdfa03-f202-41ee-ba25-c5bf7ba1337c.png">
+
+---
 
 # Crypto Page
 
-![view crypto details](<img width="955" alt="image" src="https://user-images.githubusercontent.com/43815180/194650400-93bebc56-3061-46ea-803e-d1343f816a73.png">)
+- <img width="956" alt="image" src="https://user-images.githubusercontent.com/43815180/194652155-c85643f4-ecfe-4966-b494-010e9c36c1a3.png">
+
+---
 
 # Mobile view for home Page
 
-![localhost 3000-crypto_metrics](<img width="215" alt="image" src="https://user-images.githubusercontent.com/43815180/194650750-d55b0303-cb8a-4d77-8a5b-5b38bc4e8579.png">)
+- <img width="212" alt="image" src="https://user-images.githubusercontent.com/43815180/194652264-df2466a1-5d61-4484-b580-2aa9376fefe0.png">
+
+--
 
 ## Available Scripts
 
