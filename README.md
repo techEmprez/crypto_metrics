@@ -28,7 +28,7 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 ## Interested in viewing the webpage:
 
-[Live Demo](https://rocket-mission-bookings.netlify.app/)
+[Live Demo](https://techemprez-crypto-metrics.netlify.app/)
 
 # Presentation Recording
 
@@ -36,17 +36,15 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 # Home Page
 
-![localhost 3000-SpaceTravelers'Hub](https://user-images.githubusercontent.com/83514256/193158547-3849a8f8-4832-4184-9a14-5aea419f54eb.png)
+![home](<img width="957" alt="image" src="https://user-images.githubusercontent.com/43815180/194650188-06774db8-3882-4578-8906-7c1afc535eb7.png">)
 
 # Crypto Page
 
-The Missions section displays a list of current missions along with their brief description and participation status.
-
-![localhost 3000-SpaceTravelers'Hub(1)](https://user-images.githubusercontent.com/83514256/193158587-479909a4-2402-4aeb-9c57-ebe3acd61f13.png)
+![view crypto details](<img width="955" alt="image" src="https://user-images.githubusercontent.com/43815180/194650400-93bebc56-3061-46ea-803e-d1343f816a73.png">)
 
 # Mobile view for home Page
 
-![localhost 3000-SpaceTravelers'Hub(2)](https://user-images.githubusercontent.com/83514256/193317548-f5efb2cd-2497-4e2d-b298-59a02d5c9ab9.png)
+![localhost 3000-crypto_metrics](<img width="215" alt="image" src="https://user-images.githubusercontent.com/43815180/194650750-d55b0303-cb8a-4d77-8a5b-5b38bc4e8579.png">)
 
 ## Available Scripts
 
