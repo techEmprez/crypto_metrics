@@ -7,4 +7,10 @@ const HomeList = () => {
     setQuery(event.target.value);
   };
 
+   const cryptos = useSelector((state) => state.crypto);
+
+  const filteredCrypto = cryptos.filter((crypto) => (
+    crypto.name.toLowerCase().includes(query.toLowerCase())
+  ));
+
 export default HomeList;
