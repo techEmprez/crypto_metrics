@@ -32,21 +32,20 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 # Presentation Recording
 
-[View](paste link here)
+[View](https://www.loom.com/share/244b4c343b7348dc98d2d78b86e17bd0)
 
----
 # Home Page
+
 - <img width="960" alt="image" src="https://user-images.githubusercontent.com/43815180/194651996-22cdfa03-f202-41ee-ba25-c5bf7ba1337c.png">
 
-----
 # Crypto Page
+
 - <img width="956" alt="image" src="https://user-images.githubusercontent.com/43815180/194652155-c85643f4-ecfe-4966-b494-010e9c36c1a3.png">
 
----
 # Mobile view for home Page
+
 - <img width="212" alt="image" src="https://user-images.githubusercontent.com/43815180/194652264-df2466a1-5d61-4484-b580-2aa9376fefe0.png">
 
---
 ## Available Scripts
 
 After cloning `git clone https://github.com/techEmprez/crypto_metrics.git` this directory from Github;
@@ -88,6 +87,10 @@ Use `npm test a` to run all the Jest test.
 ## 📝 License
 
 This project is <a href="https://github.com/techEmprez/crypto_metrics/MIT.md">MIT</a></li> licensed.
+
+## Acknowledgement
+
+This project gives appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 # Contributing :handshake:
 
