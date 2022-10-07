@@ -34,45 +34,17 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 [View](https://www.loom.com/share/244b4c343b7348dc98d2d78b86e17bd0)
 
----
-
----
-
 # Home Page
 
 - <img width="960" alt="image" src="https://user-images.githubusercontent.com/43815180/194651996-22cdfa03-f202-41ee-ba25-c5bf7ba1337c.png">
-
-- <img width="960" alt="image" src="https://user-images.githubusercontent.com/43815180/194651996-22cdfa03-f202-41ee-ba25-c5bf7ba1337c.png">
-
----
 
 # Crypto Page
 
 - <img width="956" alt="image" src="https://user-images.githubusercontent.com/43815180/194652155-c85643f4-ecfe-4966-b494-010e9c36c1a3.png">
 
-<<<<<<< HEAD
-
-- <img width="956" alt="image" src="https://user-images.githubusercontent.com/43815180/194652155-c85643f4-ecfe-4966-b494-010e9c36c1a3.png">
-
----
-
-## =======
-
-> > > > > > > 9ee6937c02b55a9e1a1ce93acece1414e4433771
-
 # Mobile view for home Page
 
 - <img width="212" alt="image" src="https://user-images.githubusercontent.com/43815180/194652264-df2466a1-5d61-4484-b580-2aa9376fefe0.png">
-
-<<<<<<< HEAD
-
-- <img width="212" alt="image" src="https://user-images.githubusercontent.com/43815180/194652264-df2466a1-5d61-4484-b580-2aa9376fefe0.png">
-
---
-
-## =======
-
-> > > > > > > 9ee6937c02b55a9e1a1ce93acece1414e4433771
 
 ## Available Scripts
 
