@@ -6,4 +6,5 @@
 
 body {
   background-image: url("./assets/Crypto4-1.jpg");
+  background-size: contain;
 }
