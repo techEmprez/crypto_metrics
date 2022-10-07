@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { FaLessThan, FaMicrophone } from 'react-icons/fa';
+import { FaMicrophone } from 'react-icons/fa';
 import { FiSettings } from 'react-icons/fi';
 import './styles.css';
 
@@ -18,7 +18,6 @@ const Navigation = () => {
         <ul className="navLinks">
           <li>
             <Link to="/" style={iconStyle}>
-              <FaLessThan className="lessthan" style={iconStyle} />
               Home
             </Link>
           </li>
