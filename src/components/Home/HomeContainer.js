@@ -4,8 +4,8 @@ import './App.css';
 
 const HomeContainer = () => {
   return (
-    <div>
-      
+    <div className='Home'>
+      <HomeList />
     </div>
   )
 }
