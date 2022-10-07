@@ -36,8 +36,6 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 # Home Page
 
-The Rockets section displays a list of all available SpaceX rockets.
-
 ![localhost 3000-SpaceTravelers'Hub](https://user-images.githubusercontent.com/83514256/193158547-3849a8f8-4832-4184-9a14-5aea419f54eb.png)
 
 # Crypto Page
