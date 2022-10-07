@@ -32,7 +32,7 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 # Presentation Recording
 
-[View](paste link here)
+[View](https://www.loom.com/share/244b4c343b7348dc98d2d78b86e17bd0)
 
 ---
 
