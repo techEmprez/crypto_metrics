@@ -28,28 +28,25 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 
 ## Interested in viewing the webpage:
 
-[Live Demo](https://rocket-mission-bookings.netlify.app/)
+[Live Demo](https://techemprez-crypto-metrics.netlify.app/)
 
 # Presentation Recording
 
 [View](paste link here)
 
+---
 # Home Page
+- <img width="960" alt="image" src="https://user-images.githubusercontent.com/43815180/194651996-22cdfa03-f202-41ee-ba25-c5bf7ba1337c.png">
 
-The Rockets section displays a list of all available SpaceX rockets.
-
-![localhost 3000-SpaceTravelers'Hub](https://user-images.githubusercontent.com/83514256/193158547-3849a8f8-4832-4184-9a14-5aea419f54eb.png)
-
+----
 # Crypto Page
+- <img width="956" alt="image" src="https://user-images.githubusercontent.com/43815180/194652155-c85643f4-ecfe-4966-b494-010e9c36c1a3.png">
 
-The Missions section displays a list of current missions along with their brief description and participation status.
-
-![localhost 3000-SpaceTravelers'Hub(1)](https://user-images.githubusercontent.com/83514256/193158587-479909a4-2402-4aeb-9c57-ebe3acd61f13.png)
-
+---
 # Mobile view for home Page
+- <img width="212" alt="image" src="https://user-images.githubusercontent.com/43815180/194652264-df2466a1-5d61-4484-b580-2aa9376fefe0.png">
 
-![localhost 3000-SpaceTravelers'Hub(2)](https://user-images.githubusercontent.com/83514256/193317548-f5efb2cd-2497-4e2d-b298-59a02d5c9ab9.png)
-
+--
 ## Available Scripts
 
 After cloning `git clone https://github.com/techEmprez/crypto_metrics.git` this directory from Github;
