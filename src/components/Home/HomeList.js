@@ -8,4 +8,4 @@ const HomeList = () => {
   )
 }
 
-export default HomeList
+export default HomeList;
