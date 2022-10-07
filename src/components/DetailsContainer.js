@@ -12,7 +12,7 @@ function DetailsContainer() {
 
   useEffect(() => {
     dispatch(setCoinsReducer(id));
-  }, []);
+  }, [dispatch, id]);
 
   const cryptos = useSelector((state) => state.crypto);
 

@@ -1,8 +1,7 @@
 import React from 'react';
 import { Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { FaLessThan, FaMicrophone } from 'react-icons/fa';
-import { FiSettings } from 'react-icons/fi';
+import { FaMicrophone } from 'react-icons/fa';
 import './styles.css';
 
 const Navigation = () => {
@@ -17,18 +16,13 @@ const Navigation = () => {
       <nav>
         <ul className="navLinks">
           <li>
-            <Link to="/" style={iconStyle}>
-              <FaLessThan className="lessthan" style={iconStyle} />
-              Home
+            <Link to="/" className="headerList" style={iconStyle}>
+              <h1>Crypto Metrics</h1>
             </Link>
-          </li>
-          <li className="headerList">
-            <h1>Crypto Metrics</h1>
           </li>
           <li className="headerList">
             <div className="icons-class">
               <FaMicrophone style={iconStyle} />
-              <FiSettings style={iconStyle} />
             </div>
           </li>
         </ul>
