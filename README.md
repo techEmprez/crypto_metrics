@@ -81,7 +81,7 @@ Use `npm test a` to run all the Jest test.
 👤 **Choice Osobor**
 
 - GitHub: [@githubhandle](https://github.com/techEmprez)
-- Twitter: [@twitterhandle](https://twitter.com/Suigeneriz_)
+- Twitter: [@twitterhandle](https://twitter.com/techEmprez)
 - LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
 
 ## 📝 License
