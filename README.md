@@ -55,6 +55,8 @@ You can run:
 
 ### `npm start` to open the development server.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 # Project Setup
 
 1. Setup the project by creating a new directory.
