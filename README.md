@@ -4,7 +4,7 @@
 
 ## Description
 
-In this task, Crypto-Metrics: This is a mobile web application used to check a list of crypto-currency metrics. It is created using the coinstats API, which retrives data such as, names of cryptos, logos, current amount and as well as related website url. The webapp have several pages which includes the "Home page" with a list of items that could be filtered by some parameters; in the project, it's a list of metrics that can be filtered by the coin name and a "Details page" with more information about a selected coin.
+In this task, Crypto-Metrics, is a mobile web application used to check a list of crypto-currency metrics. It is created using the coin stats API, which retrieves data such as names of cryptos, logos, current amount, and related website URL. The webapp has several pages, which include the "Home page" with a list of items that could be filtered by some parameters; in the project, it's a list of metrics that can be filtered by the coin name; and a "Details page" with more information about a selected coin.
 
 # Built with
 
