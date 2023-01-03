@@ -49,7 +49,7 @@ In this task, Crypto-Metrics: This is a mobile web application used to check a l
 ## Available Scripts
 
 After cloning `git clone https://github.com/techEmprez/crypto_metrics.git` this directory from Github;
-You can run:
+You can run this project via:
 
 ### `npm install` to install project dependencies.
 
@@ -61,7 +61,7 @@ You can run:
 2. Set up the repository on GitHub and use Gitflow.
 3. Set up React using ### `npx create-react-app .`
 4. Install [React Redux](https://react-redux.js.org/), [Redux Logger](https://www.npmjs.com/package/redux-logger) and [React Router](https://reactrouter.com /web/guides/quick-start).
-5. Create routes and view components.
+5. Create routes on each components and view components.
 6. Fetch data and update Redux store.
 7. Render fetch data for the first time only.
 8. Write actions and reducers for canceling rockets and leaving missions
